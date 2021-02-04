@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8584" started-at="2021-02-04T18:28:31 EET" finished-at="2021-02-04T18:28:40 EET">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8584" started-at="2021-02-04T18:28:31 EET" finished-at="2021-02-04T18:28:40 EET">
+      <class name="countryAPI.countriesAPIs">
+        <test-method status="PASS" signature="createSpecifications()[pri:0, instance:countryAPI.countriesAPIs@32057e6]" name="createSpecifications" is-config="true" duration-ms="886" started-at="2021-02-04T18:28:32 EET" finished-at="2021-02-04T18:28:32 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createSpecifications -->
+        <test-method status="PASS" signature="checkTheResponceWhenSendInvalidData()[pri:0, instance:countryAPI.countriesAPIs@32057e6]" name="checkTheResponceWhenSendInvalidData" duration-ms="3717" started-at="2021-02-04T18:28:32 EET" finished-at="2021-02-04T18:28:36 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTheResponceWhenSendInvalidData -->
+        <test-method status="PASS" signature="extractCapitalNameFromResponseBodyAndSendItToAnotherAPI()[pri:0, instance:countryAPI.countriesAPIs@32057e6]" name="extractCapitalNameFromResponseBodyAndSendItToAnotherAPI" duration-ms="3815" started-at="2021-02-04T18:28:36 EET" finished-at="2021-02-04T18:28:40 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extractCapitalNameFromResponseBodyAndSendItToAnotherAPI -->
+      </class> <!-- countryAPI.countriesAPIs -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

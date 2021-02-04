@@ -1,0 +1,1 @@
+{"uuid":"b8a324aa-7ac6-4fd3-8712-9bb9d46507a5","name":"countryAPI.countries","children":["2e8d0ba1-3278-4059-a60d-eaf182dc1b48"],"befores":[{"name":"createSpecifications","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1612376368066,"stop":1612376368760}],"afters":[],"links":[],"start":1612376368034,"stop":1612376373826}
